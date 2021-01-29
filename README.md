@@ -3,7 +3,7 @@
 This Project recommend movies to the user using correlation based and Cosine based similarity.
 
 **Data**
-MovieLens data sets were collected by the GroupLens Research Project at the University of Minnesota.
+MovieLens datasets were collected by the GroupLens Research Project at the University of Minnesota.
 The dataset can be downloaded from here -- (https://grouplens.org/datasets/movielens/100k/)
 
  This data set consists of:
